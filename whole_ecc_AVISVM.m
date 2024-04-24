@@ -68,7 +68,5 @@ legend([h1_1,h2_1,h3_1],'unlabeled negative samples', 'unlabeled positive sample
     'labeled positive samples')
 grid off
 box on
- %% ---------------------对pdf截图
-  %!pdfcrop untitled.pdf  4.pdf
-  % \研究生\研究内容\绝对值不等式\绝对值不等式\黑箱PU问题matlab代码\PU code matlab (new)\picture>pdfcrop 333.pdf 444.pdf
+
 
